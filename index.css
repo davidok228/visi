@@ -1,0 +1,12 @@
+.par1 {
+    background: red;
+    font-size: 16pt;
+    margin-bottom: 64px;
+}
+.par2 {
+    background: pink;
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
